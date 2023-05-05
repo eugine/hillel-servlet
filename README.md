@@ -1,5 +1,4 @@
+Hillel Servlet example with different application servers: 
 
-WildFly: 
-1. run wildfly.sh
-2. docker exec -it <xxx> bash 
-3. 
+1. WildFly: make wildfly
+2. Tomcat: make tomcat
